@@ -106,7 +106,7 @@ public class AccountMain
 {	
 	public static void main(String args[])
 	{
-		BufferedReader sc=new BuferedReader(new InputStreamReader(System.in))
+		BufferedReader sc=new BuferedReader(new InputStreamReader(System.in));
 		int ch;
 		savings sv=new savings();
 		currentac cu=new currentac();
