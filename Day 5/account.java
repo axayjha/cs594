@@ -101,7 +101,7 @@ class loan_account extends account
 	{
 		if(loan_amount == 0)
 		{
-			System.out.println("Loan repayed");
+			System.out.println("Loan repaid");
 		}
 		if(ry>cy)
 		{
@@ -128,12 +128,12 @@ class loan_account extends account
 	}
 	void repay()
 	{
-		System.out.println("Repayed");
+		System.out.println("repaid");
 		loan_amount -= repayment_value;
 		tenure--;
 		if(loan_amount == 0)
 		{
-			System.out.println("Loan repayed");
+			System.out.println("Loan repaid");
 		}
 	}
 
