@@ -1,4 +1,5 @@
- import javax.swing.*;
+//Credits: Shreya Sil
+import javax.swing.*;
 class swingdemo
 {
 	swingdemo()
