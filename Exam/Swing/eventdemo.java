@@ -1,4 +1,5 @@
-  import javax.swing.*;
+// Credits: Shreya Sil
+import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 class eventdemo
